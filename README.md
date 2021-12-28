@@ -23,6 +23,6 @@ Reasoning system based on Clingo.
 
 
 ## Important:
-If permession denied, run:  
+If permission denied, run:  
 - $ chmod +x clingoLinux  
 - $ chmod +x format-output
